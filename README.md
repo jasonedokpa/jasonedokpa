@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C++
 - 💬 Ask me about gaming.
 - 📫 How to reach me: jasonedokpa@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love Korean Music 🎶
 
 
 Connect with me:
