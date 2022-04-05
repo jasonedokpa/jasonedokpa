@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love Korean Music 🎶
 
 
+
 Connect with me:
 
 https://www.linkedin.com/in/jasonedokpa/
