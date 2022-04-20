@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on a personal project.
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and Java
 - 💬 Ask me about gaming.
 - 📫 How to reach me: jasonedokpa@gmail.com
 - ⚡ Fun fact: I love Korean Music 🎶
