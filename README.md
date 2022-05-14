@@ -5,15 +5,24 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on a personal project.
+- 🔭 I’m currently learning how to Deploy Docker containers to Google Cloud Platform and NGINX.
 - 🌱 I’m currently learning C++ and Java
 - 💬 Ask me about gaming.
 - 📫 How to reach me: jasonedokpa@gmail.com
 - ⚡ Fun fact: I love Korean Music 🎶
-
-
+- Some of my favorite hobbies include: gaming and messing around with Linux distrubutions and Mac OS installations on server VM's
+- 👨‍💻 My Favorite Technologies include:
+    <p>&emsp;Docker</p>
+    <p>&emsp;Windows Subsystem for Linux</p>
+    <p>&emsp;Visual Studio Code, the best Code Editor ever created.</>
 
 Connect with me:
-<a href="https://www.linkedin.com/in/jasonedokpa/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<div>
+    <a href="https://www.linkedin.com/in/jasonedokpa/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+        <a href="https://discordapp.com/users/221741069824557056/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+    </a>
+</div>
+  
+ 
