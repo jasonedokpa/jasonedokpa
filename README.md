@@ -15,6 +15,7 @@ Here are some ideas to get you started:
     <p>&emsp;Visual Studio Code, the best Code Editor ever created.</p>
     <p>&emsp;Windows Subsystem for Linux</p>
     <p>&emsp;Docker</p>
+    <p>&emsp;CMake</p>
 
 <br>
 
