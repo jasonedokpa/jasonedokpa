@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently learning how to Deploy Docker containers to Google Cloud Platform and NGINX.
-- 🌱 I’m also learning C++ and Java
+- 🌱 I’m also learning Lightning Web Runtime/LWC and Apex
 - 💬 Ask me about gaming.
 - 📫 How to reach me: jasonedokpa@gmail.com
 - ⚡ Fun fact: I love Korean Music 🎶
